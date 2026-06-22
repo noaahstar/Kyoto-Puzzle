@@ -1,0 +1,279 @@
+{
+  "V": [
+    {
+      "name": "堀川通",
+      "orientation": "V",
+      "mid_lon": 135.75278500000002,
+      "mid_lat": 35.0060858,
+      "direction": "S"
+    },
+    {
+      "name": "醒ヶ井通",
+      "orientation": "V",
+      "mid_lon": 135.75294015,
+      "mid_lat": 35.004305900000006,
+      "direction": "S"
+    },
+    {
+      "name": "油小路通",
+      "orientation": "V",
+      "mid_lon": 135.7536308,
+      "mid_lat": 35.008215750000005,
+      "direction": "N"
+    },
+    {
+      "name": "小川通",
+      "orientation": "V",
+      "mid_lon": 135.75443035,
+      "mid_lat": 35.00554225,
+      "direction": "N"
+    },
+    {
+      "name": "西洞院通",
+      "orientation": "V",
+      "mid_lon": 135.7552087,
+      "mid_lat": 34.9998636,
+      "direction": null
+    },
+    {
+      "name": "釜座通",
+      "orientation": "V",
+      "mid_lon": 135.75585289999998,
+      "mid_lat": 35.0096765,
+      "direction": "N"
+    },
+    {
+      "name": "新町通",
+      "orientation": "V",
+      "mid_lon": 135.75665715,
+      "mid_lat": 35.00226565,
+      "direction": "N"
+    },
+    {
+      "name": "衣棚通",
+      "orientation": "V",
+      "mid_lon": 135.75725655,
+      "mid_lat": 35.009678199999996,
+      "direction": "N"
+    },
+    {
+      "name": "室町通",
+      "orientation": "V",
+      "mid_lon": 135.75818165,
+      "mid_lat": 34.9948304,
+      "direction": "N"
+    },
+    {
+      "name": "烏丸通",
+      "orientation": "V",
+      "mid_lon": 135.75976455,
+      "mid_lat": 35.00226455,
+      "direction": "N"
+    },
+    {
+      "name": "車屋町通",
+      "orientation": "V",
+      "mid_lon": 135.76022469999998,
+      "mid_lat": 35.0103165,
+      "direction": "N"
+    },
+    {
+      "name": "東洞院通",
+      "orientation": "V",
+      "mid_lon": 135.76097835000002,
+      "mid_lat": 35.0016064,
+      "direction": "S"
+    },
+    {
+      "name": "間之町通",
+      "orientation": "V",
+      "mid_lon": 135.7618444,
+      "mid_lat": 34.992312999999996,
+      "direction": null
+    },
+    {
+      "name": "高倉通",
+      "orientation": "V",
+      "mid_lon": 135.76195819999998,
+      "mid_lat": 34.9874169,
+      "direction": null
+    },
+    {
+      "name": "堺町通",
+      "orientation": "V",
+      "mid_lon": 135.76316825,
+      "mid_lat": 35.014136,
+      "direction": "S"
+    },
+    {
+      "name": "柳馬場通",
+      "orientation": "V",
+      "mid_lon": 135.76397020000002,
+      "mid_lat": 35.00678605,
+      "direction": "N"
+    },
+    {
+      "name": "富小路通",
+      "orientation": "V",
+      "mid_lon": 135.7640427,
+      "mid_lat": 34.996828199999996,
+      "direction": "S"
+    },
+    {
+      "name": "麩屋町通",
+      "orientation": "V",
+      "mid_lon": 135.76559275,
+      "mid_lat": 35.006643600000004,
+      "direction": "N"
+    },
+    {
+      "name": "御幸町通",
+      "orientation": "V",
+      "mid_lon": 135.76648949999998,
+      "mid_lat": 35.01415345,
+      "direction": "S"
+    },
+    {
+      "name": "河原町通",
+      "orientation": "V",
+      "mid_lon": 135.76672810000002,
+      "mid_lat": 34.99858415,
+      "direction": null
+    },
+    {
+      "name": "寺町通",
+      "orientation": "V",
+      "mid_lon": 135.7670813,
+      "mid_lat": 35.00759275,
+      "direction": "N"
+    }
+  ],
+  "H": [
+    {
+      "name": "丸太町通",
+      "orientation": "H",
+      "mid_lon": 135.73104795,
+      "mid_lat": 35.019008299999996,
+      "direction": null
+    },
+    {
+      "name": "竹屋町通",
+      "orientation": "H",
+      "mid_lon": 135.74866005,
+      "mid_lat": 35.0158785,
+      "direction": null
+    },
+    {
+      "name": "夷川通",
+      "orientation": "H",
+      "mid_lon": 135.75951375,
+      "mid_lat": 35.01491345,
+      "direction": null
+    },
+    {
+      "name": "二条通",
+      "orientation": "H",
+      "mid_lon": 135.7696881,
+      "mid_lat": 35.01324835,
+      "direction": null
+    },
+    {
+      "name": "押小路通",
+      "orientation": "H",
+      "mid_lon": 135.76114445000002,
+      "mid_lat": 35.0121736,
+      "direction": "W"
+    },
+    {
+      "name": "御池通",
+      "orientation": "H",
+      "mid_lon": 135.73102335,
+      "mid_lat": 35.0116164,
+      "direction": "W"
+    },
+    {
+      "name": "姉小路通",
+      "orientation": "H",
+      "mid_lon": 135.73635695000002,
+      "mid_lat": 35.0097476,
+      "direction": "W"
+    },
+    {
+      "name": "三条通",
+      "orientation": "H",
+      "mid_lon": 135.7696559,
+      "mid_lat": 35.008847200000005,
+      "direction": null
+    },
+    {
+      "name": "六角通",
+      "orientation": "H",
+      "mid_lon": 135.7556677,
+      "mid_lat": 35.007334400000005,
+      "direction": "E"
+    },
+    {
+      "name": "蛸薬師通",
+      "orientation": "H",
+      "mid_lon": 135.76979699999998,
+      "mid_lat": 35.006197,
+      "direction": "W"
+    },
+    {
+      "name": "錦小路通",
+      "orientation": "H",
+      "mid_lon": 135.75730264999999,
+      "mid_lat": 35.004980950000004,
+      "direction": "E"
+    },
+    {
+      "name": "四条通",
+      "orientation": "H",
+      "mid_lon": 135.75192475,
+      "mid_lat": 35.00368795,
+      "direction": null
+    },
+    {
+      "name": "綾小路通",
+      "orientation": "H",
+      "mid_lon": 135.75954235,
+      "mid_lat": 35.00250345,
+      "direction": "W"
+    },
+    {
+      "name": "仏光寺通",
+      "orientation": "H",
+      "mid_lon": 135.76924635,
+      "mid_lat": 35.00095475,
+      "direction": null
+    },
+    {
+      "name": "高辻通",
+      "orientation": "H",
+      "mid_lon": 135.75383065,
+      "mid_lat": 35.00014015,
+      "direction": null
+    },
+    {
+      "name": "松原通",
+      "orientation": "H",
+      "mid_lon": 135.75021279999999,
+      "mid_lat": 34.9988083,
+      "direction": null
+    },
+    {
+      "name": "万寿寺通",
+      "orientation": "H",
+      "mid_lon": 135.7597352,
+      "mid_lat": 34.997658400000006,
+      "direction": "E"
+    },
+    {
+      "name": "五条通",
+      "orientation": "H",
+      "mid_lon": 135.75024754999998,
+      "mid_lat": 34.995904100000004,
+      "direction": "W"
+    }
+  ]
+}

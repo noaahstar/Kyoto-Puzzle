@@ -1,0 +1,2464 @@
+{
+  "1": {
+    "boardId": 1,
+    "numRows": 10,
+    "numCols": 10,
+    "hNames": [
+      "丸太町通",
+      "竹屋町通",
+      "夷川通",
+      "二条通",
+      "押小路通",
+      "御池通",
+      "姉小路通",
+      "三条通",
+      "六角通",
+      "蛸薬師通"
+    ],
+    "vNames": [
+      "堀川通",
+      "黒門通",
+      "油小路通",
+      "小川通",
+      "西洞院通",
+      "釜座通",
+      "新町通",
+      "衣棚通",
+      "室町通",
+      "烏丸通"
+    ],
+    "grid": [
+      {
+        "id": 0,
+        "row": 0,
+        "col": 0,
+        "hName": "丸太町通",
+        "vName": "堀川通",
+        "intersectionName": "堀川丸太町",
+        "coord": [
+          135.7534116,
+          35.0173586
+        ]
+      },
+      {
+        "id": 1,
+        "row": 0,
+        "col": 1,
+        "hName": "丸太町通",
+        "vName": "黒門通",
+        "intersectionName": "黒門丸太町",
+        "coord": [
+          135.7521059,
+          35.0173605
+        ]
+      },
+      {
+        "id": 2,
+        "row": 0,
+        "col": 2,
+        "hName": "丸太町通",
+        "vName": "油小路通",
+        "intersectionName": "油小路丸太町",
+        "coord": [
+          135.7534116,
+          35.0173586
+        ]
+      },
+      {
+        "id": 3,
+        "row": 0,
+        "col": 3,
+        "hName": "丸太町通",
+        "vName": "小川通",
+        "intersectionName": "小川丸太町",
+        "coord": [
+          135.7542925,
+          35.017368
+        ]
+      },
+      {
+        "id": 4,
+        "row": 0,
+        "col": 4,
+        "hName": "丸太町通",
+        "vName": "西洞院通",
+        "intersectionName": "西洞院丸太町",
+        "coord": [
+          135.7550121,
+          35.0173758
+        ]
+      },
+      {
+        "id": 5,
+        "row": 0,
+        "col": 5,
+        "hName": "丸太町通",
+        "vName": "釜座通",
+        "intersectionName": "釜座丸太町",
+        "coord": [
+          135.7558612,
+          35.0173844
+        ]
+      },
+      {
+        "id": 6,
+        "row": 0,
+        "col": 6,
+        "hName": "丸太町通",
+        "vName": "新町通",
+        "intersectionName": "新町丸太町",
+        "coord": [
+          135.7565425,
+          35.0173885
+        ]
+      },
+      {
+        "id": 7,
+        "row": 0,
+        "col": 7,
+        "hName": "丸太町通",
+        "vName": "衣棚通",
+        "intersectionName": "衣棚丸太町",
+        "coord": [
+          135.7572193,
+          35.0173842
+        ]
+      },
+      {
+        "id": 8,
+        "row": 0,
+        "col": 8,
+        "hName": "丸太町通",
+        "vName": "室町通",
+        "intersectionName": "室町丸太町",
+        "coord": [
+          135.7580008,
+          35.0173792
+        ]
+      },
+      {
+        "id": 9,
+        "row": 0,
+        "col": 9,
+        "hName": "丸太町通",
+        "vName": "烏丸通",
+        "intersectionName": "烏丸丸太町",
+        "coord": [
+          135.7594959,
+          35.017379
+        ]
+      },
+      {
+        "id": 10,
+        "row": 1,
+        "col": 0,
+        "hName": "竹屋町通",
+        "vName": "堀川通",
+        "intersectionName": "堀川竹屋町",
+        "coord": [
+          135.7672589,
+          35.0155763
+        ]
+      },
+      {
+        "id": 11,
+        "row": 1,
+        "col": 1,
+        "hName": "竹屋町通",
+        "vName": "黒門通",
+        "intersectionName": "黒門竹屋町",
+        "coord": [
+          135.7672589,
+          35.0155763
+        ]
+      },
+      {
+        "id": 12,
+        "row": 1,
+        "col": 2,
+        "hName": "竹屋町通",
+        "vName": "油小路通",
+        "intersectionName": "油小路竹屋町",
+        "coord": [
+          135.7672589,
+          35.0155763
+        ]
+      },
+      {
+        "id": 13,
+        "row": 1,
+        "col": 3,
+        "hName": "竹屋町通",
+        "vName": "小川通",
+        "intersectionName": "小川竹屋町",
+        "coord": [
+          135.7672589,
+          35.0155763
+        ]
+      },
+      {
+        "id": 14,
+        "row": 1,
+        "col": 4,
+        "hName": "竹屋町通",
+        "vName": "西洞院通",
+        "intersectionName": "西洞院竹屋町",
+        "coord": [
+          135.7672589,
+          35.0155763
+        ]
+      },
+      {
+        "id": 15,
+        "row": 1,
+        "col": 5,
+        "hName": "竹屋町通",
+        "vName": "釜座通",
+        "intersectionName": "釜座竹屋町",
+        "coord": [
+          135.7672589,
+          35.0155763
+        ]
+      },
+      {
+        "id": 16,
+        "row": 1,
+        "col": 6,
+        "hName": "竹屋町通",
+        "vName": "新町通",
+        "intersectionName": "新町竹屋町",
+        "coord": [
+          135.7672589,
+          35.0155763
+        ]
+      },
+      {
+        "id": 17,
+        "row": 1,
+        "col": 7,
+        "hName": "竹屋町通",
+        "vName": "衣棚通",
+        "intersectionName": "衣棚竹屋町",
+        "coord": [
+          135.7672589,
+          35.0155763
+        ]
+      },
+      {
+        "id": 18,
+        "row": 1,
+        "col": 8,
+        "hName": "竹屋町通",
+        "vName": "室町通",
+        "intersectionName": "室町竹屋町",
+        "coord": [
+          135.7672589,
+          35.0155763
+        ]
+      },
+      {
+        "id": 19,
+        "row": 1,
+        "col": 9,
+        "hName": "竹屋町通",
+        "vName": "烏丸通",
+        "intersectionName": "烏丸竹屋町",
+        "coord": [
+          135.7672589,
+          35.0155763
+        ]
+      },
+      {
+        "id": 20,
+        "row": 2,
+        "col": 0,
+        "hName": "夷川通",
+        "vName": "堀川通",
+        "intersectionName": "堀川夷川",
+        "coord": [
+          135.7534176,
+          35.0148695
+        ]
+      },
+      {
+        "id": 21,
+        "row": 2,
+        "col": 1,
+        "hName": "夷川通",
+        "vName": "黒門通",
+        "intersectionName": "黒門夷川",
+        "coord": [
+          135.7517798,
+          35.0148791
+        ]
+      },
+      {
+        "id": 22,
+        "row": 2,
+        "col": 2,
+        "hName": "夷川通",
+        "vName": "油小路通",
+        "intersectionName": "油小路夷川",
+        "coord": [
+          135.7534176,
+          35.0148695
+        ]
+      },
+      {
+        "id": 23,
+        "row": 2,
+        "col": 3,
+        "hName": "夷川通",
+        "vName": "小川通",
+        "intersectionName": "小川夷川",
+        "coord": [
+          135.7542331,
+          35.0148749
+        ]
+      },
+      {
+        "id": 24,
+        "row": 2,
+        "col": 4,
+        "hName": "夷川通",
+        "vName": "西洞院通",
+        "intersectionName": "西洞院夷川",
+        "coord": [
+          135.7550201,
+          35.0148782
+        ]
+      },
+      {
+        "id": 25,
+        "row": 2,
+        "col": 5,
+        "hName": "夷川通",
+        "vName": "釜座通",
+        "intersectionName": "釜座夷川",
+        "coord": [
+          135.7557905,
+          35.0148814
+        ]
+      },
+      {
+        "id": 26,
+        "row": 2,
+        "col": 6,
+        "hName": "夷川通",
+        "vName": "新町通",
+        "intersectionName": "新町夷川",
+        "coord": [
+          135.7565554,
+          35.0148846
+        ]
+      },
+      {
+        "id": 27,
+        "row": 2,
+        "col": 7,
+        "hName": "夷川通",
+        "vName": "衣棚通",
+        "intersectionName": "衣棚夷川",
+        "coord": [
+          135.7572327,
+          35.0148874
+        ]
+      },
+      {
+        "id": 28,
+        "row": 2,
+        "col": 8,
+        "hName": "夷川通",
+        "vName": "室町通",
+        "intersectionName": "室町夷川",
+        "coord": [
+          135.7580302,
+          35.0149232
+        ]
+      },
+      {
+        "id": 29,
+        "row": 2,
+        "col": 9,
+        "hName": "夷川通",
+        "vName": "烏丸通",
+        "intersectionName": "烏丸夷川",
+        "coord": [
+          135.7596359,
+          35.0148832
+        ]
+      },
+      {
+        "id": 30,
+        "row": 3,
+        "col": 0,
+        "hName": "二条通",
+        "vName": "堀川通",
+        "intersectionName": "堀川二条",
+        "coord": [
+          135.7533681,
+          35.0136227
+        ]
+      },
+      {
+        "id": 31,
+        "row": 3,
+        "col": 1,
+        "hName": "二条通",
+        "vName": "黒門通",
+        "intersectionName": "黒門二条",
+        "coord": [
+          135.7517444,
+          35.0136323
+        ]
+      },
+      {
+        "id": 32,
+        "row": 3,
+        "col": 2,
+        "hName": "二条通",
+        "vName": "油小路通",
+        "intersectionName": "油小路二条",
+        "coord": [
+          135.7534216,
+          35.0136223
+        ]
+      },
+      {
+        "id": 33,
+        "row": 3,
+        "col": 3,
+        "hName": "二条通",
+        "vName": "小川通",
+        "intersectionName": "小川二条",
+        "coord": [
+          135.7545775,
+          35.0136118
+        ]
+      },
+      {
+        "id": 34,
+        "row": 3,
+        "col": 4,
+        "hName": "二条通",
+        "vName": "西洞院通",
+        "intersectionName": "西洞院二条",
+        "coord": [
+          135.7550156,
+          35.0136055
+        ]
+      },
+      {
+        "id": 35,
+        "row": 3,
+        "col": 5,
+        "hName": "二条通",
+        "vName": "釜座通",
+        "intersectionName": "釜座二条",
+        "coord": [
+          135.7558741,
+          35.0135846
+        ]
+      },
+      {
+        "id": 36,
+        "row": 3,
+        "col": 6,
+        "hName": "二条通",
+        "vName": "新町通",
+        "intersectionName": "新町二条",
+        "coord": [
+          135.7565635,
+          35.0135899
+        ]
+      },
+      {
+        "id": 37,
+        "row": 3,
+        "col": 7,
+        "hName": "二条通",
+        "vName": "衣棚通",
+        "intersectionName": "衣棚二条",
+        "coord": [
+          135.757266,
+          35.0136143
+        ]
+      },
+      {
+        "id": 38,
+        "row": 3,
+        "col": 8,
+        "hName": "二条通",
+        "vName": "室町通",
+        "intersectionName": "室町二条",
+        "coord": [
+          135.7580631,
+          35.0136417
+        ]
+      },
+      {
+        "id": 39,
+        "row": 3,
+        "col": 9,
+        "hName": "二条通",
+        "vName": "烏丸通",
+        "intersectionName": "烏丸二条",
+        "coord": [
+          135.7597037,
+          35.0136577
+        ]
+      },
+      {
+        "id": 40,
+        "row": 4,
+        "col": 0,
+        "hName": "押小路通",
+        "vName": "堀川通",
+        "intersectionName": "堀川押小路",
+        "coord": [
+          135.7517899,
+          35.0118239
+        ]
+      },
+      {
+        "id": 41,
+        "row": 4,
+        "col": 1,
+        "hName": "押小路通",
+        "vName": "黒門通",
+        "intersectionName": "黒門押小路",
+        "coord": [
+          135.7501501,
+          35.0118869
+        ]
+      },
+      {
+        "id": 42,
+        "row": 4,
+        "col": 2,
+        "hName": "押小路通",
+        "vName": "油小路通",
+        "intersectionName": "油小路押小路",
+        "coord": [
+          135.7517899,
+          35.0118239
+        ]
+      },
+      {
+        "id": 43,
+        "row": 4,
+        "col": 3,
+        "hName": "押小路通",
+        "vName": "小川通",
+        "intersectionName": "小川押小路",
+        "coord": [
+          135.7517899,
+          35.0118239
+        ]
+      },
+      {
+        "id": 44,
+        "row": 4,
+        "col": 4,
+        "hName": "押小路通",
+        "vName": "西洞院通",
+        "intersectionName": "西洞院押小路",
+        "coord": [
+          135.7517899,
+          35.0118239
+        ]
+      },
+      {
+        "id": 45,
+        "row": 4,
+        "col": 5,
+        "hName": "押小路通",
+        "vName": "釜座通",
+        "intersectionName": "釜座押小路",
+        "coord": [
+          135.7517899,
+          35.0118239
+        ]
+      },
+      {
+        "id": 46,
+        "row": 4,
+        "col": 6,
+        "hName": "押小路通",
+        "vName": "新町通",
+        "intersectionName": "新町押小路",
+        "coord": [
+          135.7517899,
+          35.0118239
+        ]
+      },
+      {
+        "id": 47,
+        "row": 4,
+        "col": 7,
+        "hName": "押小路通",
+        "vName": "衣棚通",
+        "intersectionName": "衣棚押小路",
+        "coord": [
+          135.7517899,
+          35.0118239
+        ]
+      },
+      {
+        "id": 48,
+        "row": 4,
+        "col": 8,
+        "hName": "押小路通",
+        "vName": "室町通",
+        "intersectionName": "室町押小路",
+        "coord": [
+          135.7517899,
+          35.0118239
+        ]
+      },
+      {
+        "id": 49,
+        "row": 4,
+        "col": 9,
+        "hName": "押小路通",
+        "vName": "烏丸通",
+        "intersectionName": "烏丸押小路",
+        "coord": [
+          135.7517899,
+          35.0118239
+        ]
+      },
+      {
+        "id": 50,
+        "row": 5,
+        "col": 0,
+        "hName": "御池通",
+        "vName": "堀川通",
+        "intersectionName": "堀川御池",
+        "coord": [
+          135.7552642,
+          35.010807
+        ]
+      },
+      {
+        "id": 51,
+        "row": 5,
+        "col": 1,
+        "hName": "御池通",
+        "vName": "黒門通",
+        "intersectionName": "黒門御池",
+        "coord": [
+          135.7516736,
+          35.0109295
+        ]
+      },
+      {
+        "id": 52,
+        "row": 5,
+        "col": 2,
+        "hName": "御池通",
+        "vName": "油小路通",
+        "intersectionName": "油小路御池",
+        "coord": [
+          135.7535207,
+          35.0109423
+        ]
+      },
+      {
+        "id": 53,
+        "row": 5,
+        "col": 3,
+        "hName": "御池通",
+        "vName": "小川通",
+        "intersectionName": "小川御池",
+        "coord": [
+          135.7542431,
+          35.0109183
+        ]
+      },
+      {
+        "id": 54,
+        "row": 5,
+        "col": 4,
+        "hName": "御池通",
+        "vName": "西洞院通",
+        "intersectionName": "西洞院御池",
+        "coord": [
+          135.7550675,
+          35.0108251
+        ]
+      },
+      {
+        "id": 55,
+        "row": 5,
+        "col": 5,
+        "hName": "御池通",
+        "vName": "釜座通",
+        "intersectionName": "釜座御池",
+        "coord": [
+          135.7558641,
+          35.0107753
+        ]
+      },
+      {
+        "id": 56,
+        "row": 5,
+        "col": 6,
+        "hName": "御池通",
+        "vName": "新町通",
+        "intersectionName": "新町御池",
+        "coord": [
+          135.756596,
+          35.0107718
+        ]
+      },
+      {
+        "id": 57,
+        "row": 5,
+        "col": 7,
+        "hName": "御池通",
+        "vName": "衣棚通",
+        "intersectionName": "衣棚御池",
+        "coord": [
+          135.7572543,
+          35.0107703
+        ]
+      },
+      {
+        "id": 58,
+        "row": 5,
+        "col": 8,
+        "hName": "御池通",
+        "vName": "室町通",
+        "intersectionName": "室町御池",
+        "coord": [
+          135.7580308,
+          35.0107714
+        ]
+      },
+      {
+        "id": 59,
+        "row": 5,
+        "col": 9,
+        "hName": "御池通",
+        "vName": "烏丸通",
+        "intersectionName": "烏丸御池",
+        "coord": [
+          135.7597077,
+          35.0107532
+        ]
+      },
+      {
+        "id": 60,
+        "row": 6,
+        "col": 0,
+        "hName": "姉小路通",
+        "vName": "堀川通",
+        "intersectionName": "堀川姉小路",
+        "coord": [
+          135.753131,
+          35.0097782
+        ]
+      },
+      {
+        "id": 61,
+        "row": 6,
+        "col": 1,
+        "hName": "姉小路通",
+        "vName": "黒門通",
+        "intersectionName": "黒門姉小路",
+        "coord": [
+          135.7518777,
+          35.0097682
+        ]
+      },
+      {
+        "id": 62,
+        "row": 6,
+        "col": 2,
+        "hName": "姉小路通",
+        "vName": "油小路通",
+        "intersectionName": "油小路姉小路",
+        "coord": [
+          135.7536231,
+          35.0097754
+        ]
+      },
+      {
+        "id": 63,
+        "row": 6,
+        "col": 3,
+        "hName": "姉小路通",
+        "vName": "小川通",
+        "intersectionName": "小川姉小路",
+        "coord": [
+          135.7543099,
+          35.0097694
+        ]
+      },
+      {
+        "id": 64,
+        "row": 6,
+        "col": 4,
+        "hName": "姉小路通",
+        "vName": "西洞院通",
+        "intersectionName": "西洞院姉小路",
+        "coord": [
+          135.7551967,
+          35.0098199
+        ]
+      },
+      {
+        "id": 65,
+        "row": 6,
+        "col": 5,
+        "hName": "姉小路通",
+        "vName": "釜座通",
+        "intersectionName": "釜座姉小路",
+        "coord": [
+          135.7558417,
+          35.0098267
+        ]
+      },
+      {
+        "id": 66,
+        "row": 6,
+        "col": 6,
+        "hName": "姉小路通",
+        "vName": "新町通",
+        "intersectionName": "新町姉小路",
+        "coord": [
+          135.7566083,
+          35.0098362
+        ]
+      },
+      {
+        "id": 67,
+        "row": 6,
+        "col": 7,
+        "hName": "姉小路通",
+        "vName": "衣棚通",
+        "intersectionName": "衣棚姉小路",
+        "coord": [
+          135.7572487,
+          35.0098279
+        ]
+      },
+      {
+        "id": 68,
+        "row": 6,
+        "col": 8,
+        "hName": "姉小路通",
+        "vName": "室町通",
+        "intersectionName": "室町姉小路",
+        "coord": [
+          135.7580382,
+          35.0098276
+        ]
+      },
+      {
+        "id": 69,
+        "row": 6,
+        "col": 9,
+        "hName": "姉小路通",
+        "vName": "烏丸通",
+        "intersectionName": "烏丸姉小路",
+        "coord": [
+          135.7596989,
+          35.009864
+        ]
+      },
+      {
+        "id": 70,
+        "row": 7,
+        "col": 0,
+        "hName": "三条通",
+        "vName": "堀川通",
+        "intersectionName": "堀川三条",
+        "coord": [
+          135.7318593,
+          35.0081609
+        ]
+      },
+      {
+        "id": 71,
+        "row": 7,
+        "col": 1,
+        "hName": "三条通",
+        "vName": "黒門通",
+        "intersectionName": "黒門三条",
+        "coord": [
+          135.7318593,
+          35.0081609
+        ]
+      },
+      {
+        "id": 72,
+        "row": 7,
+        "col": 2,
+        "hName": "三条通",
+        "vName": "油小路通",
+        "intersectionName": "油小路三条",
+        "coord": [
+          135.7318593,
+          35.0081609
+        ]
+      },
+      {
+        "id": 73,
+        "row": 7,
+        "col": 3,
+        "hName": "三条通",
+        "vName": "小川通",
+        "intersectionName": "小川三条",
+        "coord": [
+          135.7318593,
+          35.0081609
+        ]
+      },
+      {
+        "id": 74,
+        "row": 7,
+        "col": 4,
+        "hName": "三条通",
+        "vName": "西洞院通",
+        "intersectionName": "西洞院三条",
+        "coord": [
+          135.7318593,
+          35.0081609
+        ]
+      },
+      {
+        "id": 75,
+        "row": 7,
+        "col": 5,
+        "hName": "三条通",
+        "vName": "釜座通",
+        "intersectionName": "釜座三条",
+        "coord": [
+          135.7318593,
+          35.0081609
+        ]
+      },
+      {
+        "id": 76,
+        "row": 7,
+        "col": 6,
+        "hName": "三条通",
+        "vName": "新町通",
+        "intersectionName": "新町三条",
+        "coord": [
+          135.7318593,
+          35.0081609
+        ]
+      },
+      {
+        "id": 77,
+        "row": 7,
+        "col": 7,
+        "hName": "三条通",
+        "vName": "衣棚通",
+        "intersectionName": "衣棚三条",
+        "coord": [
+          135.7318593,
+          35.0081609
+        ]
+      },
+      {
+        "id": 78,
+        "row": 7,
+        "col": 8,
+        "hName": "三条通",
+        "vName": "室町通",
+        "intersectionName": "室町三条",
+        "coord": [
+          135.7318593,
+          35.0081609
+        ]
+      },
+      {
+        "id": 79,
+        "row": 7,
+        "col": 9,
+        "hName": "三条通",
+        "vName": "烏丸通",
+        "intersectionName": "烏丸三条",
+        "coord": [
+          135.7318593,
+          35.0081609
+        ]
+      },
+      {
+        "id": 80,
+        "row": 8,
+        "col": 0,
+        "hName": "六角通",
+        "vName": "堀川通",
+        "intersectionName": "堀川六角",
+        "coord": [
+          135.7704623,
+          35.0075062
+        ]
+      },
+      {
+        "id": 81,
+        "row": 8,
+        "col": 1,
+        "hName": "六角通",
+        "vName": "黒門通",
+        "intersectionName": "黒門六角",
+        "coord": [
+          135.7704623,
+          35.0075062
+        ]
+      },
+      {
+        "id": 82,
+        "row": 8,
+        "col": 2,
+        "hName": "六角通",
+        "vName": "油小路通",
+        "intersectionName": "油小路六角",
+        "coord": [
+          135.7704623,
+          35.0075062
+        ]
+      },
+      {
+        "id": 83,
+        "row": 8,
+        "col": 3,
+        "hName": "六角通",
+        "vName": "小川通",
+        "intersectionName": "小川六角",
+        "coord": [
+          135.7704623,
+          35.0075062
+        ]
+      },
+      {
+        "id": 84,
+        "row": 8,
+        "col": 4,
+        "hName": "六角通",
+        "vName": "西洞院通",
+        "intersectionName": "西洞院六角",
+        "coord": [
+          135.7704623,
+          35.0075062
+        ]
+      },
+      {
+        "id": 85,
+        "row": 8,
+        "col": 5,
+        "hName": "六角通",
+        "vName": "釜座通",
+        "intersectionName": "釜座六角",
+        "coord": [
+          135.7704623,
+          35.0075062
+        ]
+      },
+      {
+        "id": 86,
+        "row": 8,
+        "col": 6,
+        "hName": "六角通",
+        "vName": "新町通",
+        "intersectionName": "新町六角",
+        "coord": [
+          135.7704623,
+          35.0075062
+        ]
+      },
+      {
+        "id": 87,
+        "row": 8,
+        "col": 7,
+        "hName": "六角通",
+        "vName": "衣棚通",
+        "intersectionName": "衣棚六角",
+        "coord": [
+          135.7704623,
+          35.0075062
+        ]
+      },
+      {
+        "id": 88,
+        "row": 8,
+        "col": 8,
+        "hName": "六角通",
+        "vName": "室町通",
+        "intersectionName": "室町六角",
+        "coord": [
+          135.7704623,
+          35.0075062
+        ]
+      },
+      {
+        "id": 89,
+        "row": 8,
+        "col": 9,
+        "hName": "六角通",
+        "vName": "烏丸通",
+        "intersectionName": "烏丸六角",
+        "coord": [
+          135.7704623,
+          35.0075062
+        ]
+      },
+      {
+        "id": 90,
+        "row": 9,
+        "col": 0,
+        "hName": "蛸薬師通",
+        "vName": "堀川通",
+        "intersectionName": "堀川蛸薬師",
+        "coord": [
+          135.7704893,
+          35.0062235
+        ]
+      },
+      {
+        "id": 91,
+        "row": 9,
+        "col": 1,
+        "hName": "蛸薬師通",
+        "vName": "黒門通",
+        "intersectionName": "黒門蛸薬師",
+        "coord": [
+          135.7704893,
+          35.0062235
+        ]
+      },
+      {
+        "id": 92,
+        "row": 9,
+        "col": 2,
+        "hName": "蛸薬師通",
+        "vName": "油小路通",
+        "intersectionName": "油小路蛸薬師",
+        "coord": [
+          135.7704893,
+          35.0062235
+        ]
+      },
+      {
+        "id": 93,
+        "row": 9,
+        "col": 3,
+        "hName": "蛸薬師通",
+        "vName": "小川通",
+        "intersectionName": "小川蛸薬師",
+        "coord": [
+          135.7704893,
+          35.0062235
+        ]
+      },
+      {
+        "id": 94,
+        "row": 9,
+        "col": 4,
+        "hName": "蛸薬師通",
+        "vName": "西洞院通",
+        "intersectionName": "西洞院蛸薬師",
+        "coord": [
+          135.7704893,
+          35.0062235
+        ]
+      },
+      {
+        "id": 95,
+        "row": 9,
+        "col": 5,
+        "hName": "蛸薬師通",
+        "vName": "釜座通",
+        "intersectionName": "釜座蛸薬師",
+        "coord": [
+          135.7704893,
+          35.0062235
+        ]
+      },
+      {
+        "id": 96,
+        "row": 9,
+        "col": 6,
+        "hName": "蛸薬師通",
+        "vName": "新町通",
+        "intersectionName": "新町蛸薬師",
+        "coord": [
+          135.7704893,
+          35.0062235
+        ]
+      },
+      {
+        "id": 97,
+        "row": 9,
+        "col": 7,
+        "hName": "蛸薬師通",
+        "vName": "衣棚通",
+        "intersectionName": "衣棚蛸薬師",
+        "coord": [
+          135.7704893,
+          35.0062235
+        ]
+      },
+      {
+        "id": 98,
+        "row": 9,
+        "col": 8,
+        "hName": "蛸薬師通",
+        "vName": "室町通",
+        "intersectionName": "室町蛸薬師",
+        "coord": [
+          135.7704893,
+          35.0062235
+        ]
+      },
+      {
+        "id": 99,
+        "row": 9,
+        "col": 9,
+        "hName": "蛸薬師通",
+        "vName": "烏丸通",
+        "intersectionName": "烏丸蛸薬師",
+        "coord": [
+          135.7704893,
+          35.0062235
+        ]
+      }
+    ]
+  },
+  "2": {
+    "boardId": 2,
+    "numRows": 10,
+    "numCols": 10,
+    "hNames": [
+      "丸太町通",
+      "竹屋町通",
+      "夷川通",
+      "二条通",
+      "押小路通",
+      "御池通",
+      "姉小路通",
+      "三条通",
+      "六角通",
+      "蛸薬師通"
+    ],
+    "vNames": [
+      "烏丸通",
+      "車屋町通",
+      "東洞院通",
+      "間之町通",
+      "高倉通",
+      "堺町通",
+      "柳馬場通",
+      "富小路通",
+      "麩屋町通",
+      "御幸町通"
+    ],
+    "grid": [
+      {
+        "id": 0,
+        "row": 0,
+        "col": 0,
+        "hName": "丸太町通",
+        "vName": "烏丸通",
+        "intersectionName": "烏丸丸太町",
+        "coord": [
+          135.7594959,
+          35.017379
+        ]
+      },
+      {
+        "id": 1,
+        "row": 0,
+        "col": 1,
+        "hName": "丸太町通",
+        "vName": "車屋町通",
+        "intersectionName": "車屋町丸太町",
+        "coord": [
+          135.7601168,
+          35.0174003
+        ]
+      },
+      {
+        "id": 2,
+        "row": 0,
+        "col": 2,
+        "hName": "丸太町通",
+        "vName": "東洞院通",
+        "intersectionName": "東洞院丸太町",
+        "coord": [
+          135.7608341,
+          35.0174034
+        ]
+      },
+      {
+        "id": 3,
+        "row": 0,
+        "col": 3,
+        "hName": "丸太町通",
+        "vName": "間之町通",
+        "intersectionName": "間之町丸太町",
+        "coord": [
+          135.7616058,
+          35.0174067
+        ]
+      },
+      {
+        "id": 4,
+        "row": 0,
+        "col": 4,
+        "hName": "丸太町通",
+        "vName": "高倉通",
+        "intersectionName": "高倉丸太町",
+        "coord": [
+          135.7623797,
+          35.01741
+        ]
+      },
+      {
+        "id": 5,
+        "row": 0,
+        "col": 5,
+        "hName": "丸太町通",
+        "vName": "堺町通",
+        "intersectionName": "堺町丸太町",
+        "coord": [
+          135.7631583,
+          35.0174134
+        ]
+      },
+      {
+        "id": 6,
+        "row": 0,
+        "col": 6,
+        "hName": "丸太町通",
+        "vName": "柳馬場通",
+        "intersectionName": "柳馬場丸太町",
+        "coord": [
+          135.7638982,
+          35.0174166
+        ]
+      },
+      {
+        "id": 7,
+        "row": 0,
+        "col": 7,
+        "hName": "丸太町通",
+        "vName": "富小路通",
+        "intersectionName": "富小路丸太町",
+        "coord": [
+          135.765015,
+          35.0174214
+        ]
+      },
+      {
+        "id": 8,
+        "row": 0,
+        "col": 8,
+        "hName": "丸太町通",
+        "vName": "麩屋町通",
+        "intersectionName": "麩屋町丸太町",
+        "coord": [
+          135.7658156,
+          35.0174233
+        ]
+      },
+      {
+        "id": 9,
+        "row": 0,
+        "col": 9,
+        "hName": "丸太町通",
+        "vName": "御幸町通",
+        "intersectionName": "御幸町丸太町",
+        "coord": [
+          135.7665141,
+          35.017425
+        ]
+      },
+      {
+        "id": 10,
+        "row": 1,
+        "col": 0,
+        "hName": "竹屋町通",
+        "vName": "烏丸通",
+        "intersectionName": "烏丸竹屋町",
+        "coord": [
+          135.7672589,
+          35.0155763
+        ]
+      },
+      {
+        "id": 11,
+        "row": 1,
+        "col": 1,
+        "hName": "竹屋町通",
+        "vName": "車屋町通",
+        "intersectionName": "車屋町竹屋町",
+        "coord": [
+          135.7672589,
+          35.0155763
+        ]
+      },
+      {
+        "id": 12,
+        "row": 1,
+        "col": 2,
+        "hName": "竹屋町通",
+        "vName": "東洞院通",
+        "intersectionName": "東洞院竹屋町",
+        "coord": [
+          135.7672589,
+          35.0155763
+        ]
+      },
+      {
+        "id": 13,
+        "row": 1,
+        "col": 3,
+        "hName": "竹屋町通",
+        "vName": "間之町通",
+        "intersectionName": "間之町竹屋町",
+        "coord": [
+          135.7672589,
+          35.0155763
+        ]
+      },
+      {
+        "id": 14,
+        "row": 1,
+        "col": 4,
+        "hName": "竹屋町通",
+        "vName": "高倉通",
+        "intersectionName": "高倉竹屋町",
+        "coord": [
+          135.7672589,
+          35.0155763
+        ]
+      },
+      {
+        "id": 15,
+        "row": 1,
+        "col": 5,
+        "hName": "竹屋町通",
+        "vName": "堺町通",
+        "intersectionName": "堺町竹屋町",
+        "coord": [
+          135.7672589,
+          35.0155763
+        ]
+      },
+      {
+        "id": 16,
+        "row": 1,
+        "col": 6,
+        "hName": "竹屋町通",
+        "vName": "柳馬場通",
+        "intersectionName": "柳馬場竹屋町",
+        "coord": [
+          135.7672589,
+          35.0155763
+        ]
+      },
+      {
+        "id": 17,
+        "row": 1,
+        "col": 7,
+        "hName": "竹屋町通",
+        "vName": "富小路通",
+        "intersectionName": "富小路竹屋町",
+        "coord": [
+          135.7672589,
+          35.0155763
+        ]
+      },
+      {
+        "id": 18,
+        "row": 1,
+        "col": 8,
+        "hName": "竹屋町通",
+        "vName": "麩屋町通",
+        "intersectionName": "麩屋町竹屋町",
+        "coord": [
+          135.7672589,
+          35.0155763
+        ]
+      },
+      {
+        "id": 19,
+        "row": 1,
+        "col": 9,
+        "hName": "竹屋町通",
+        "vName": "御幸町通",
+        "intersectionName": "御幸町竹屋町",
+        "coord": [
+          135.7672589,
+          35.0155763
+        ]
+      },
+      {
+        "id": 20,
+        "row": 2,
+        "col": 0,
+        "hName": "夷川通",
+        "vName": "烏丸通",
+        "intersectionName": "烏丸夷川",
+        "coord": [
+          135.7596359,
+          35.0148832
+        ]
+      },
+      {
+        "id": 21,
+        "row": 2,
+        "col": 1,
+        "hName": "夷川通",
+        "vName": "車屋町通",
+        "intersectionName": "車屋町夷川",
+        "coord": [
+          135.760166,
+          35.0148778
+        ]
+      },
+      {
+        "id": 22,
+        "row": 2,
+        "col": 2,
+        "hName": "夷川通",
+        "vName": "東洞院通",
+        "intersectionName": "東洞院夷川",
+        "coord": [
+          135.7608706,
+          35.0148784
+        ]
+      },
+      {
+        "id": 23,
+        "row": 2,
+        "col": 3,
+        "hName": "夷川通",
+        "vName": "間之町通",
+        "intersectionName": "間之町夷川",
+        "coord": [
+          135.7616081,
+          35.0148897
+        ]
+      },
+      {
+        "id": 24,
+        "row": 2,
+        "col": 4,
+        "hName": "夷川通",
+        "vName": "高倉通",
+        "intersectionName": "高倉夷川",
+        "coord": [
+          135.762391,
+          35.0149046
+        ]
+      },
+      {
+        "id": 25,
+        "row": 2,
+        "col": 5,
+        "hName": "夷川通",
+        "vName": "堺町通",
+        "intersectionName": "堺町夷川",
+        "coord": [
+          135.7631458,
+          35.0149142
+        ]
+      },
+      {
+        "id": 26,
+        "row": 2,
+        "col": 6,
+        "hName": "夷川通",
+        "vName": "柳馬場通",
+        "intersectionName": "柳馬場夷川",
+        "coord": [
+          135.7639024,
+          35.0149219
+        ]
+      },
+      {
+        "id": 27,
+        "row": 2,
+        "col": 7,
+        "hName": "夷川通",
+        "vName": "富小路通",
+        "intersectionName": "富小路夷川",
+        "coord": [
+          135.7649901,
+          35.0149299
+        ]
+      },
+      {
+        "id": 28,
+        "row": 2,
+        "col": 8,
+        "hName": "夷川通",
+        "vName": "麩屋町通",
+        "intersectionName": "麩屋町夷川",
+        "coord": [
+          135.7658027,
+          35.0149414
+        ]
+      },
+      {
+        "id": 29,
+        "row": 2,
+        "col": 9,
+        "hName": "夷川通",
+        "vName": "御幸町通",
+        "intersectionName": "御幸町夷川",
+        "coord": [
+          135.7664809,
+          35.0149574
+        ]
+      },
+      {
+        "id": 30,
+        "row": 3,
+        "col": 0,
+        "hName": "二条通",
+        "vName": "烏丸通",
+        "intersectionName": "烏丸二条",
+        "coord": [
+          135.7597037,
+          35.0136577
+        ]
+      },
+      {
+        "id": 31,
+        "row": 3,
+        "col": 1,
+        "hName": "二条通",
+        "vName": "車屋町通",
+        "intersectionName": "車屋町二条",
+        "coord": [
+          135.7602211,
+          35.0136691
+        ]
+      },
+      {
+        "id": 32,
+        "row": 3,
+        "col": 2,
+        "hName": "二条通",
+        "vName": "東洞院通",
+        "intersectionName": "東洞院二条",
+        "coord": [
+          135.7609415,
+          35.0136676
+        ]
+      },
+      {
+        "id": 33,
+        "row": 3,
+        "col": 3,
+        "hName": "二条通",
+        "vName": "間之町通",
+        "intersectionName": "間之町二条",
+        "coord": [
+          135.7616184,
+          35.0136637
+        ]
+      },
+      {
+        "id": 34,
+        "row": 3,
+        "col": 4,
+        "hName": "二条通",
+        "vName": "高倉通",
+        "intersectionName": "高倉二条",
+        "coord": [
+          135.7623968,
+          35.0136586
+        ]
+      },
+      {
+        "id": 35,
+        "row": 3,
+        "col": 5,
+        "hName": "二条通",
+        "vName": "堺町通",
+        "intersectionName": "堺町二条",
+        "coord": [
+          135.7631398,
+          35.0136581
+        ]
+      },
+      {
+        "id": 36,
+        "row": 3,
+        "col": 6,
+        "hName": "二条通",
+        "vName": "柳馬場通",
+        "intersectionName": "柳馬場二条",
+        "coord": [
+          135.7639116,
+          35.0136609
+        ]
+      },
+      {
+        "id": 37,
+        "row": 3,
+        "col": 7,
+        "hName": "二条通",
+        "vName": "富小路通",
+        "intersectionName": "富小路二条",
+        "coord": [
+          135.7649849,
+          35.013656
+        ]
+      },
+      {
+        "id": 38,
+        "row": 3,
+        "col": 8,
+        "hName": "二条通",
+        "vName": "麩屋町通",
+        "intersectionName": "麩屋町二条",
+        "coord": [
+          135.7658036,
+          35.0136431
+        ]
+      },
+      {
+        "id": 39,
+        "row": 3,
+        "col": 9,
+        "hName": "二条通",
+        "vName": "御幸町通",
+        "intersectionName": "御幸町二条",
+        "coord": [
+          135.7664758,
+          35.0136467
+        ]
+      },
+      {
+        "id": 40,
+        "row": 4,
+        "col": 0,
+        "hName": "押小路通",
+        "vName": "烏丸通",
+        "intersectionName": "烏丸押小路",
+        "coord": [
+          135.7517899,
+          35.0118239
+        ]
+      },
+      {
+        "id": 41,
+        "row": 4,
+        "col": 1,
+        "hName": "押小路通",
+        "vName": "車屋町通",
+        "intersectionName": "車屋町押小路",
+        "coord": [
+          135.7517899,
+          35.0118239
+        ]
+      },
+      {
+        "id": 42,
+        "row": 4,
+        "col": 2,
+        "hName": "押小路通",
+        "vName": "東洞院通",
+        "intersectionName": "東洞院押小路",
+        "coord": [
+          135.7517899,
+          35.0118239
+        ]
+      },
+      {
+        "id": 43,
+        "row": 4,
+        "col": 3,
+        "hName": "押小路通",
+        "vName": "間之町通",
+        "intersectionName": "間之町押小路",
+        "coord": [
+          135.7517899,
+          35.0118239
+        ]
+      },
+      {
+        "id": 44,
+        "row": 4,
+        "col": 4,
+        "hName": "押小路通",
+        "vName": "高倉通",
+        "intersectionName": "高倉押小路",
+        "coord": [
+          135.7517899,
+          35.0118239
+        ]
+      },
+      {
+        "id": 45,
+        "row": 4,
+        "col": 5,
+        "hName": "押小路通",
+        "vName": "堺町通",
+        "intersectionName": "堺町押小路",
+        "coord": [
+          135.7517899,
+          35.0118239
+        ]
+      },
+      {
+        "id": 46,
+        "row": 4,
+        "col": 6,
+        "hName": "押小路通",
+        "vName": "柳馬場通",
+        "intersectionName": "柳馬場押小路",
+        "coord": [
+          135.7517899,
+          35.0118239
+        ]
+      },
+      {
+        "id": 47,
+        "row": 4,
+        "col": 7,
+        "hName": "押小路通",
+        "vName": "富小路通",
+        "intersectionName": "富小路押小路",
+        "coord": [
+          135.7517899,
+          35.0118239
+        ]
+      },
+      {
+        "id": 48,
+        "row": 4,
+        "col": 8,
+        "hName": "押小路通",
+        "vName": "麩屋町通",
+        "intersectionName": "麩屋町押小路",
+        "coord": [
+          135.7517899,
+          35.0118239
+        ]
+      },
+      {
+        "id": 49,
+        "row": 4,
+        "col": 9,
+        "hName": "押小路通",
+        "vName": "御幸町通",
+        "intersectionName": "御幸町押小路",
+        "coord": [
+          135.7517899,
+          35.0118239
+        ]
+      },
+      {
+        "id": 50,
+        "row": 5,
+        "col": 0,
+        "hName": "御池通",
+        "vName": "烏丸通",
+        "intersectionName": "烏丸御池",
+        "coord": [
+          135.7597077,
+          35.0107532
+        ]
+      },
+      {
+        "id": 51,
+        "row": 5,
+        "col": 1,
+        "hName": "御池通",
+        "vName": "車屋町通",
+        "intersectionName": "車屋町御池",
+        "coord": [
+          135.7602291,
+          35.0107577
+        ]
+      },
+      {
+        "id": 52,
+        "row": 5,
+        "col": 2,
+        "hName": "御池通",
+        "vName": "東洞院通",
+        "intersectionName": "東洞院御池",
+        "coord": [
+          135.7610206,
+          35.0107576
+        ]
+      },
+      {
+        "id": 53,
+        "row": 5,
+        "col": 3,
+        "hName": "御池通",
+        "vName": "間之町通",
+        "intersectionName": "間之町御池",
+        "coord": [
+          135.761825,
+          35.0107563
+        ]
+      },
+      {
+        "id": 54,
+        "row": 5,
+        "col": 4,
+        "hName": "御池通",
+        "vName": "高倉通",
+        "intersectionName": "高倉御池",
+        "coord": [
+          135.762422,
+          35.0107542
+        ]
+      },
+      {
+        "id": 55,
+        "row": 5,
+        "col": 5,
+        "hName": "御池通",
+        "vName": "堺町通",
+        "intersectionName": "堺町御池",
+        "coord": [
+          135.7631987,
+          35.0107516
+        ]
+      },
+      {
+        "id": 56,
+        "row": 5,
+        "col": 6,
+        "hName": "御池通",
+        "vName": "柳馬場通",
+        "intersectionName": "柳馬場御池",
+        "coord": [
+          135.7639748,
+          35.0107444
+        ]
+      },
+      {
+        "id": 57,
+        "row": 5,
+        "col": 7,
+        "hName": "御池通",
+        "vName": "富小路通",
+        "intersectionName": "富小路御池",
+        "coord": [
+          135.7650244,
+          35.0107493
+        ]
+      },
+      {
+        "id": 58,
+        "row": 5,
+        "col": 8,
+        "hName": "御池通",
+        "vName": "麩屋町通",
+        "intersectionName": "麩屋町御池",
+        "coord": [
+          135.7657522,
+          35.0107524
+        ]
+      },
+      {
+        "id": 59,
+        "row": 5,
+        "col": 9,
+        "hName": "御池通",
+        "vName": "御幸町通",
+        "intersectionName": "御幸町御池",
+        "coord": [
+          135.76647,
+          35.0107607
+        ]
+      },
+      {
+        "id": 60,
+        "row": 6,
+        "col": 0,
+        "hName": "姉小路通",
+        "vName": "烏丸通",
+        "intersectionName": "烏丸姉小路",
+        "coord": [
+          135.7596989,
+          35.009864
+        ]
+      },
+      {
+        "id": 61,
+        "row": 6,
+        "col": 1,
+        "hName": "姉小路通",
+        "vName": "車屋町通",
+        "intersectionName": "車屋町姉小路",
+        "coord": [
+          135.7602203,
+          35.0098753
+        ]
+      },
+      {
+        "id": 62,
+        "row": 6,
+        "col": 2,
+        "hName": "姉小路通",
+        "vName": "東洞院通",
+        "intersectionName": "東洞院姉小路",
+        "coord": [
+          135.7610449,
+          35.0098718
+        ]
+      },
+      {
+        "id": 63,
+        "row": 6,
+        "col": 3,
+        "hName": "姉小路通",
+        "vName": "間之町通",
+        "intersectionName": "間之町姉小路",
+        "coord": [
+          135.7624713,
+          35.0098258
+        ]
+      },
+      {
+        "id": 64,
+        "row": 6,
+        "col": 4,
+        "hName": "姉小路通",
+        "vName": "高倉通",
+        "intersectionName": "高倉姉小路",
+        "coord": [
+          135.7624713,
+          35.0098258
+        ]
+      },
+      {
+        "id": 65,
+        "row": 6,
+        "col": 5,
+        "hName": "姉小路通",
+        "vName": "堺町通",
+        "intersectionName": "堺町姉小路",
+        "coord": [
+          135.7632216,
+          35.0098274
+        ]
+      },
+      {
+        "id": 66,
+        "row": 6,
+        "col": 6,
+        "hName": "姉小路通",
+        "vName": "柳馬場通",
+        "intersectionName": "柳馬場姉小路",
+        "coord": [
+          135.7639928,
+          35.0098296
+        ]
+      },
+      {
+        "id": 67,
+        "row": 6,
+        "col": 7,
+        "hName": "姉小路通",
+        "vName": "富小路通",
+        "intersectionName": "富小路姉小路",
+        "coord": [
+          135.7650004,
+          35.0098497
+        ]
+      },
+      {
+        "id": 68,
+        "row": 6,
+        "col": 8,
+        "hName": "姉小路通",
+        "vName": "麩屋町通",
+        "intersectionName": "麩屋町姉小路",
+        "coord": [
+          135.7657295,
+          35.0098544
+        ]
+      },
+      {
+        "id": 69,
+        "row": 6,
+        "col": 9,
+        "hName": "姉小路通",
+        "vName": "御幸町通",
+        "intersectionName": "御幸町姉小路",
+        "coord": [
+          135.766458,
+          35.0098467
+        ]
+      },
+      {
+        "id": 70,
+        "row": 7,
+        "col": 0,
+        "hName": "三条通",
+        "vName": "烏丸通",
+        "intersectionName": "烏丸三条",
+        "coord": [
+          135.7318593,
+          35.0081609
+        ]
+      },
+      {
+        "id": 71,
+        "row": 7,
+        "col": 1,
+        "hName": "三条通",
+        "vName": "車屋町通",
+        "intersectionName": "車屋町三条",
+        "coord": [
+          135.7318593,
+          35.0081609
+        ]
+      },
+      {
+        "id": 72,
+        "row": 7,
+        "col": 2,
+        "hName": "三条通",
+        "vName": "東洞院通",
+        "intersectionName": "東洞院三条",
+        "coord": [
+          135.7318593,
+          35.0081609
+        ]
+      },
+      {
+        "id": 73,
+        "row": 7,
+        "col": 3,
+        "hName": "三条通",
+        "vName": "間之町通",
+        "intersectionName": "間之町三条",
+        "coord": [
+          135.7318593,
+          35.0081609
+        ]
+      },
+      {
+        "id": 74,
+        "row": 7,
+        "col": 4,
+        "hName": "三条通",
+        "vName": "高倉通",
+        "intersectionName": "高倉三条",
+        "coord": [
+          135.7318593,
+          35.0081609
+        ]
+      },
+      {
+        "id": 75,
+        "row": 7,
+        "col": 5,
+        "hName": "三条通",
+        "vName": "堺町通",
+        "intersectionName": "堺町三条",
+        "coord": [
+          135.7318593,
+          35.0081609
+        ]
+      },
+      {
+        "id": 76,
+        "row": 7,
+        "col": 6,
+        "hName": "三条通",
+        "vName": "柳馬場通",
+        "intersectionName": "柳馬場三条",
+        "coord": [
+          135.7318593,
+          35.0081609
+        ]
+      },
+      {
+        "id": 77,
+        "row": 7,
+        "col": 7,
+        "hName": "三条通",
+        "vName": "富小路通",
+        "intersectionName": "富小路三条",
+        "coord": [
+          135.7318593,
+          35.0081609
+        ]
+      },
+      {
+        "id": 78,
+        "row": 7,
+        "col": 8,
+        "hName": "三条通",
+        "vName": "麩屋町通",
+        "intersectionName": "麩屋町三条",
+        "coord": [
+          135.7318593,
+          35.0081609
+        ]
+      },
+      {
+        "id": 79,
+        "row": 7,
+        "col": 9,
+        "hName": "三条通",
+        "vName": "御幸町通",
+        "intersectionName": "御幸町三条",
+        "coord": [
+          135.7318593,
+          35.0081609
+        ]
+      },
+      {
+        "id": 80,
+        "row": 8,
+        "col": 0,
+        "hName": "六角通",
+        "vName": "烏丸通",
+        "intersectionName": "烏丸六角",
+        "coord": [
+          135.7704623,
+          35.0075062
+        ]
+      },
+      {
+        "id": 81,
+        "row": 8,
+        "col": 1,
+        "hName": "六角通",
+        "vName": "車屋町通",
+        "intersectionName": "車屋町六角",
+        "coord": [
+          135.7704623,
+          35.0075062
+        ]
+      },
+      {
+        "id": 82,
+        "row": 8,
+        "col": 2,
+        "hName": "六角通",
+        "vName": "東洞院通",
+        "intersectionName": "東洞院六角",
+        "coord": [
+          135.7704623,
+          35.0075062
+        ]
+      },
+      {
+        "id": 83,
+        "row": 8,
+        "col": 3,
+        "hName": "六角通",
+        "vName": "間之町通",
+        "intersectionName": "間之町六角",
+        "coord": [
+          135.7704623,
+          35.0075062
+        ]
+      },
+      {
+        "id": 84,
+        "row": 8,
+        "col": 4,
+        "hName": "六角通",
+        "vName": "高倉通",
+        "intersectionName": "高倉六角",
+        "coord": [
+          135.7704623,
+          35.0075062
+        ]
+      },
+      {
+        "id": 85,
+        "row": 8,
+        "col": 5,
+        "hName": "六角通",
+        "vName": "堺町通",
+        "intersectionName": "堺町六角",
+        "coord": [
+          135.7704623,
+          35.0075062
+        ]
+      },
+      {
+        "id": 86,
+        "row": 8,
+        "col": 6,
+        "hName": "六角通",
+        "vName": "柳馬場通",
+        "intersectionName": "柳馬場六角",
+        "coord": [
+          135.7704623,
+          35.0075062
+        ]
+      },
+      {
+        "id": 87,
+        "row": 8,
+        "col": 7,
+        "hName": "六角通",
+        "vName": "富小路通",
+        "intersectionName": "富小路六角",
+        "coord": [
+          135.7704623,
+          35.0075062
+        ]
+      },
+      {
+        "id": 88,
+        "row": 8,
+        "col": 8,
+        "hName": "六角通",
+        "vName": "麩屋町通",
+        "intersectionName": "麩屋町六角",
+        "coord": [
+          135.7704623,
+          35.0075062
+        ]
+      },
+      {
+        "id": 89,
+        "row": 8,
+        "col": 9,
+        "hName": "六角通",
+        "vName": "御幸町通",
+        "intersectionName": "御幸町六角",
+        "coord": [
+          135.7704623,
+          35.0075062
+        ]
+      },
+      {
+        "id": 90,
+        "row": 9,
+        "col": 0,
+        "hName": "蛸薬師通",
+        "vName": "烏丸通",
+        "intersectionName": "烏丸蛸薬師",
+        "coord": [
+          135.7704893,
+          35.0062235
+        ]
+      },
+      {
+        "id": 91,
+        "row": 9,
+        "col": 1,
+        "hName": "蛸薬師通",
+        "vName": "車屋町通",
+        "intersectionName": "車屋町蛸薬師",
+        "coord": [
+          135.7704893,
+          35.0062235
+        ]
+      },
+      {
+        "id": 92,
+        "row": 9,
+        "col": 2,
+        "hName": "蛸薬師通",
+        "vName": "東洞院通",
+        "intersectionName": "東洞院蛸薬師",
+        "coord": [
+          135.7704893,
+          35.0062235
+        ]
+      },
+      {
+        "id": 93,
+        "row": 9,
+        "col": 3,
+        "hName": "蛸薬師通",
+        "vName": "間之町通",
+        "intersectionName": "間之町蛸薬師",
+        "coord": [
+          135.7704893,
+          35.0062235
+        ]
+      },
+      {
+        "id": 94,
+        "row": 9,
+        "col": 4,
+        "hName": "蛸薬師通",
+        "vName": "高倉通",
+        "intersectionName": "高倉蛸薬師",
+        "coord": [
+          135.7704893,
+          35.0062235
+        ]
+      },
+      {
+        "id": 95,
+        "row": 9,
+        "col": 5,
+        "hName": "蛸薬師通",
+        "vName": "堺町通",
+        "intersectionName": "堺町蛸薬師",
+        "coord": [
+          135.7704893,
+          35.0062235
+        ]
+      },
+      {
+        "id": 96,
+        "row": 9,
+        "col": 6,
+        "hName": "蛸薬師通",
+        "vName": "柳馬場通",
+        "intersectionName": "柳馬場蛸薬師",
+        "coord": [
+          135.7704893,
+          35.0062235
+        ]
+      },
+      {
+        "id": 97,
+        "row": 9,
+        "col": 7,
+        "hName": "蛸薬師通",
+        "vName": "富小路通",
+        "intersectionName": "富小路蛸薬師",
+        "coord": [
+          135.7704893,
+          35.0062235
+        ]
+      },
+      {
+        "id": 98,
+        "row": 9,
+        "col": 8,
+        "hName": "蛸薬師通",
+        "vName": "麩屋町通",
+        "intersectionName": "麩屋町蛸薬師",
+        "coord": [
+          135.7704893,
+          35.0062235
+        ]
+      },
+      {
+        "id": 99,
+        "row": 9,
+        "col": 9,
+        "hName": "蛸薬師通",
+        "vName": "御幸町通",
+        "intersectionName": "御幸町蛸薬師",
+        "coord": [
+          135.7704893,
+          35.0062235
+        ]
+      }
+    ]
+  }
+}

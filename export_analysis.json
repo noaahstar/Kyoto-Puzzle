@@ -1,0 +1,53 @@
+[
+  {
+    "type": "relation_example",
+    "props": {
+      "@id": "way/159160721",
+      "@relations": [
+        {
+          "role": "from",
+          "rel": 16454726,
+          "reltags": {
+            "restriction": "only_left_turn",
+            "type": "restriction"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "motor_vehicle=no",
+    "props": {
+      "@id": "way/290375265",
+      "access": "permissive",
+      "amenity": "parking",
+      "bus": "yes",
+      "fee": "yes",
+      "motor_vehicle": "no",
+      "name": "梅小路公園大型バス駐車場",
+      "name:en": "Umekōji Park",
+      "name:fr": "Parc Umekōji",
+      "name:ja-Hira": "うめこおじこうえんちゅしゃじょう",
+      "name:ja-Latn": "Umekōji kōen chūshajō",
+      "parking": "surface",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "motor_vehicle:conditional",
+    "props": {
+      "@id": "way/22729335",
+      "bicycle": "yes",
+      "foot": "yes",
+      "highway": "pedestrian",
+      "motor_vehicle": "no",
+      "motor_vehicle:conditional": "yes @ (21:00-14:00)",
+      "motorcar": "no",
+      "name:en": "Sanjo Street",
+      "name:ja": "三条通",
+      "oneway": "yes",
+      "oneway:bicycle": "no",
+      "surface": "asphalt"
+    }
+  }
+]
